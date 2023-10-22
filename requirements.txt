@@ -1,0 +1,13 @@
+asgiref
+boto3
+botocore
+Django
+django-storages
+jmespath
+Pillow
+python-dateutil
+pytz
+s3transfer
+six
+sqlparse
+urllib3
